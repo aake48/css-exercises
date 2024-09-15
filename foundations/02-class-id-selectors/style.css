@@ -1,0 +1,22 @@
+/* Class selector */
+.odd-number {
+    background-color: rgb(245, 138, 156);
+    font-family: Verdana, "Dejavu Sans", sans-serif;
+}
+
+.number3 {
+    font-size: 24px;
+}
+
+/* ID selectors */
+
+#number2 {
+    color: #2323c8;
+    font-size: 36px;
+}
+
+#number4 {
+    background-color: hsl(120, 65%, 63%);
+    font-size: 24px;
+    font-weight: bold;
+}
